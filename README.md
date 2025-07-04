@@ -1,15 +1,14 @@
-# 🌐 Projeto: Nome do Projeto
+# 🌐 Projeto: Ampla Cobertura
 
 ![Badge Responsivo](https://img.shields.io/badge/Responsivo-%E2%9C%94-green)
 ![Badge HTML5](https://img.shields.io/badge/HTML5-%3C%2F%3E-orange)
 ![Badge CSS3](https://img.shields.io/badge/CSS3-%23-blue)
-![Badge Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
 ![Badge DevClub](https://img.shields.io/badge/Feito%20no%20DevClub-rodolfomori.com.br-blueviolet)
 
 ## 🖼️ Demonstração
 
 <!-- Coloque aqui uma imagem ou gif do seu projeto -->
-![Preview do projeto](./caminho/para/imagem.gif)
+<img src="https://github.com/RafaFrauzino/Primeiro-Projeto-Responsivo/blob/main/assets/Imagem%20Projeto%20Responsivo.jpg?raw=true"> </img>
 
 ## 📑 Descrição
 
@@ -24,13 +23,6 @@ A proposta foi **criada durante os estudos no [DevClub](https://rodolfomori.com.
 - Estrutura semântica com HTML5
 - Estilização avançada com CSS3
 
-## 🛠️ Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- Flexbox
-- Media Queries
-- Google Fonts (se aplicável)
 
 
 ## 🧠 Aprendizados
